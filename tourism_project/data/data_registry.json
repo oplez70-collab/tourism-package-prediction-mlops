@@ -1,0 +1,9 @@
+{
+  "dataset": "tourism.csv",
+  "path": "tourism_project/data/tourism.csv",
+  "registered_at_utc": "2026-11-15T21:15:07+00:00",
+  "rows": 4128,
+  "columns": 21,
+  "md5": "7734e09e49110883e0799c73575136d9",
+  "target_positive_rate": 0.1931
+}
