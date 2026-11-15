@@ -1,0 +1,19 @@
+{
+  "model_file": "best_tourism_model_v1.joblib",
+  "decision_threshold": 0.37,
+  "best_params": {
+    "colsample_bytree": 0.7,
+    "learning_rate": 0.1,
+    "max_depth": 6,
+    "n_estimators": 300,
+    "reg_lambda": 1
+  },
+  "test_metrics": {
+    "test_accuracy": 0.929,
+    "test_precision": 0.8025,
+    "test_recall": 0.8387,
+    "test_f1": 0.8202,
+    "test_roc_auc": 0.9579
+  },
+  "mlflow_run_id": "3aed337da676447c9b217f83ad3223bc"
+}
